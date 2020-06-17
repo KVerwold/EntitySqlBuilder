@@ -1,0 +1,15 @@
+D:\dev\products\EntitySqlBuilder\EntitySqlBuilder.standard\EntitySqlBuilder\bin\Debug\netstandard2.0\EntitySqlBuilder.deps.json
+D:\dev\products\EntitySqlBuilder\EntitySqlBuilder.standard\EntitySqlBuilder\bin\Debug\netstandard2.0\EntitySqlBuilder.dll
+D:\dev\products\EntitySqlBuilder\EntitySqlBuilder.standard\EntitySqlBuilder\bin\Debug\netstandard2.0\EntitySqlBuilder.pdb
+D:\dev\products\EntitySqlBuilder\EntitySqlBuilder.standard\EntitySqlBuilder\obj\Debug\netstandard2.0\EntitySqlBuilder.AssemblyInfoInputs.cache
+D:\dev\products\EntitySqlBuilder\EntitySqlBuilder.standard\EntitySqlBuilder\obj\Debug\netstandard2.0\EntitySqlBuilder.AssemblyInfo.cs
+D:\dev\products\EntitySqlBuilder\EntitySqlBuilder.standard\EntitySqlBuilder\obj\Debug\netstandard2.0\EntitySqlBuilder.dll
+D:\dev\products\EntitySqlBuilder\EntitySqlBuilder.standard\EntitySqlBuilder\obj\Debug\netstandard2.0\EntitySqlBuilder.pdb
+D:\dev\products\EntitySqlBuilder\EntitySqlBuilder.standard\EntitySqlBuilder\obj\Debug\netstandard2.0\EntitySqlBuilder.csprojAssemblyReference.cache
+D:\dev\products\EntitySqlBuilder\EntitySqlBuilder.standard\bin\Debug\netstandard2.0\EntitySqlBuilder.deps.json
+D:\dev\products\EntitySqlBuilder\EntitySqlBuilder.standard\bin\Debug\netstandard2.0\EntitySqlBuilder.dll
+D:\dev\products\EntitySqlBuilder\EntitySqlBuilder.standard\bin\Debug\netstandard2.0\EntitySqlBuilder.pdb
+D:\dev\products\EntitySqlBuilder\EntitySqlBuilder.standard\obj\Debug\netstandard2.0\EntitySqlBuilder.AssemblyInfoInputs.cache
+D:\dev\products\EntitySqlBuilder\EntitySqlBuilder.standard\obj\Debug\netstandard2.0\EntitySqlBuilder.AssemblyInfo.cs
+D:\dev\products\EntitySqlBuilder\EntitySqlBuilder.standard\obj\Debug\netstandard2.0\EntitySqlBuilder.dll
+D:\dev\products\EntitySqlBuilder\EntitySqlBuilder.standard\obj\Debug\netstandard2.0\EntitySqlBuilder.pdb
